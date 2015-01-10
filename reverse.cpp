@@ -6,7 +6,7 @@
 int main()
 {
     int testcases;
-    char n;
+    std::string n;
     std::cin>>testcases;
     while(testcases--)
     {
